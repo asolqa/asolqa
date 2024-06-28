@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm Anna, experienced Quality Assurance and Control fan with 10+ years in IT industry
+
 <!--
 **asolqa/asolqa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
