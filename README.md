@@ -4,7 +4,7 @@ I'm Anna, process-oriented and experienced Quality Assurance and Control fan wit
 
 <a href="https://www.istqb.org/"><img src="./media/logo/ISTQB.png"/></a>  
 
-My stack is
+### My stack is:
 <p align="center">
 <a href="https://www.jetbrains.com/idea/"><img src="./media/logo/Idea.svg" width="50" height="50"  alt="IDEA"/></a>  
 <a href="https://www.java.com/"><img src="./media/logo/java.svg" width="50" height="50"  alt="Java"/></a>  
@@ -21,7 +21,7 @@ My stack is
 
 
 
-Contact me:
+### Contact me:
 
 <a href="https://t.me/asolqa"><img src="./media/logo/Telegram.svg" width="50" height="50"  alt="Jira"/></a>
 
