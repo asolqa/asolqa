@@ -23,11 +23,6 @@ I'm Anna, process-oriented and experienced Quality Assurance and Control fan wit
 
 
 
-### Contact me:
-
-<a href="https://t.me/asolqa"><img src="./media/logo/Telegram.svg" width="50" height="50"  alt="Jira"/></a>
-
-
 
 
 
